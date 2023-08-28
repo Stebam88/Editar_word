@@ -1,0 +1,4 @@
+word:
+	C:\xampp\htdocs\word\QP-SU2-BUM-RE03-C.docx
+json
+	C:\xampp\htdocs\word\db_test.json
